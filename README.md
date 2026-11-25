@@ -242,29 +242,3 @@ Although the field is evolving towards broader concepts such as context engineer
 3. Prompt Engineering Guide – https://www.promptingguide.ai/
 
 ---
-
-## SCREENSHOTS / OUTPUT
-
-Add screenshots of your practical prompt experiments in the `images` folder of your GitHub repository.
-
-Suggested screenshots:
-
-1. Zero-shot and few-shot prompting outputs.
-2. Role-based prompting output.
-3. AI-generated document.
-4. AI-generated image.
-5. Travel guide response.
-6. Email marketing response.
-7. Storytelling response.
-
-Example Markdown image syntax:
-
-```markdown
-![Zero-Shot Prompt Output](images/zero-shot-output.png)
-
-![Role-Based Prompt Output](images/role-based-output.png)
-
-![AI Generated Image](images/ai-generated-image.png)
-
-![Travel Guide Output](images/travel-guide-output.png)
-```
